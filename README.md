@@ -17,6 +17,7 @@
 
 #### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=ffffff)
+![Mongodb](https://img.shields.io/badge/-Mongodb-%2313aa52?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
