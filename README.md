@@ -28,5 +28,11 @@
 ![Discord](http://img.shields.io/badge/-Discord-3b73af?style=flat-square&logo=discord&logoColor=ffffff)
 ![Slack](http://img.shields.io/badge/-Slack-000000?style=flat-square&logo=slack&logoColor=ffffff)
 
+#### Contact with me
+[![FACEBOOK](https://img.shields.io/badge/-FACEBOOK-%233B5998?style=flat-square&logo=FACEBOOK&logoColor=ffffff)](https://www.facebook.com/hoangngochieu97/)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-%230077B5?style=flat-square&logo=LINKEDIN&logoColor=ffffff)](https://www.linkedin.com/in/hieungochoang/)
+![ZALO](https://img.shields.io/badge/-ZALO%200347.4703.96-%230A68FE?style=flat-square&logo=ZALO&logoColor=ffffff)
+![GMAIL](https://img.shields.io/badge/-hieungochoangit@gmail.com-%23EA4335?style=flat-square&logo=GMAIL&logoColor=ffffff)
+
 ---
 ⭐️ From [hieungochoangit](https://github.com/hieungochoangit)
