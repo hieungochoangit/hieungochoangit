@@ -12,6 +12,7 @@
 #### Backend
 ![PHP](https://img.shields.io/badge/-PHP-%23b0c4de?style=flat-square&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-%23f9322c?style=flat-square&logo=laravel&logoColor=ffffff)
+![NodeJs](https://img.shields.io/badge/-NodeJs-%23026e00?style=flat-square&logo=node.js&logoColor=ffffff)
 ![ExpressJs](https://img.shields.io/badge/-Express-%2368A063?style=flat-square&logo=express&logoColor=ffffff)
 
 #### Database
