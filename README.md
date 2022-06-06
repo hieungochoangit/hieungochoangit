@@ -34,7 +34,6 @@
 [![ZALO](https://img.shields.io/badge/-ZALO%200347.4703.96-%230A68FE?style=flat-square&logo=ZALO&logoColor=ffffff)](https://zalo.me/0347470396)
 ![GMAIL](https://img.shields.io/badge/-hieungochoangit@gmail.com-%23EA4335?style=flat-square&logo=GMAIL&logoColor=ffffff)
 
-https://zalo.me/
 
 ---
 ⭐️ From [hieungochoangit](https://github.com/hieungochoangit)
